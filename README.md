@@ -1,5 +1,11 @@
 # Hi, I'm Saba Abbasi 👋
 
+I'm a backend engineer who ships with an AI-native workflow — most of my recent work runs through an
+autonomous decide → build → review → merge pipeline I designed and operate myself, with a human in the
+loop only when a decision actually calls for one. This profile stays deliberately small for now: the
+repos behind that work are being reviewed one at a time before they go public, rather than linked here
+ahead of that review.
+
 Senior Backend Engineer focused on building scalable platforms, distributed systems, and architecture-driven solutions.
 
 ## About Me
